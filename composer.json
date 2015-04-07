@@ -1,0 +1,21 @@
+{
+   "name": "nourdine/session",
+   "type": "library",
+   "description": "session",
+   "keywords": ["session"],
+   "license": "GNU GPL v3",
+   "authors": [
+      {
+         "name": "fabs aka (nourdine)",
+         "email": "admin@nourdine.net"
+      }
+   ],
+   "require": {
+      "php": ">=5.3"
+   },
+   "autoload": {
+      "psr-0": {
+         "session": "src/"
+      }
+   }
+}
