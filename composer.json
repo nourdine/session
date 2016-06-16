@@ -6,8 +6,7 @@
    "license": "GNU GPL v3",
    "authors": [
       {
-         "name": "fabs aka (nourdine)",
-         "email": "admin@nourdine.net"
+         "name": "fabs aka (nourdine)"
       }
    ],
    "require": {
