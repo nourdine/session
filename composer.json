@@ -3,7 +3,7 @@
    "type": "library",
    "description": "session",
    "keywords": ["session"],
-   "license": "GNU GPL v3",
+   "license": "MIT",
    "authors": [
       {
          "name": "fabs aka (nourdine)"
